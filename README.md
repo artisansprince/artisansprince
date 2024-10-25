@@ -1,7 +1,7 @@
 # Hai, ini @artisansprince 👋
 
 - 👀 Suka bikin aplikasi web yang inovatif, terutama yang kolaborasiin seni dan teknologi.
-- 🌱 Sekarang ini lagi belajar TypeScript, NestJS, dan lainya yang masih dalam lingkup Nodejs.
+- 🌱 Sekarang ini lagi belajar TypeScript, Express.js, NestJS, dan lainya yang masih dalam lingkup Nodejs.
 - ✨ Tertarik kolaborasi di proyek kreatif, dengan kias seni dalam teknologi.
 - 📫 Bisa kontak lewat GitHub atau platform lain yang support kolaborasi project.
 - ⚡ Punya ide buat manfaatin 8 core CPU buat kinerja backend, pake nodejs yang single-thread asynchronous.
