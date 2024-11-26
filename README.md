@@ -1,4 +1,4 @@
-# Hai, ini @artisansprince 👋
+# @artisansprince 👋
 
 - 👀 Suka bikin aplikasi web yang inovatif dengan PHP dan Node.js, dengan kolaborasi seni dan teknologi.
 - ✨ Try my best buat bangun aplikasi berkinerja tinggi dengan sentuhan coding terbaik.
