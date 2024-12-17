@@ -2,9 +2,9 @@
 
 - 👀 Suka bikin aplikasi web yang inovatif dengan PHP dan Node.js, dengan kolaborasi seni dan teknologi.
 - ✨ Try my best buat bangun aplikasi berkinerja tinggi dengan sentuhan coding terbaik.
-- 🌱 Sekarang ini lagi belajar TypeScript, Express.js, NestJS, dan lainya yang masih dalam lingkup Nodejs.
+- 🌱 Sekarang ini lagi belajar Java, Go, PHP, JavaScript, Python.
 - 📫 Bisa kontak lewat GitHub atau platform lain yang support kolaborasi project.
-- ⚡ Punya ide buat manfaatin 8 core CPU buat kinerja backend, pake nodejs yang single-thread asynchronous.
+- ⚡ Punya ide buat bikin bahasa pemrograman sendiri.
 
 
 
